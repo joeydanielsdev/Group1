@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T12:49:57.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.8" etag="tdV9BREmGw5vLPJQGy7o" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T13:11:47.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="V4Zt6HrExKt4bNwIzm-4" version="24.4.8" type="github">
   <diagram name="Page-1" id="tjIramPZNQwUkHOW1PNA">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="161" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="693" y="165.25" width="93.86" height="123.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="473" y="15" width="105.43" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="200" width="137" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-16" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="11.279999999999973" y="387" width="105.43" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="473" y="387" width="105.43" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="15.28" y="15" width="105.43" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-21" value="" style="line;strokeWidth=2;direction=south;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="112" width="10" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-22" value="" style="line;strokeWidth=2;direction=south;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="112" width="10" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-26" value="" style="line;strokeWidth=2;direction=south;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="112" width="10" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-27" value="" style="line;strokeWidth=2;direction=south;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="112" width="10" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" vertex="1" parent="1">
+          <mxGeometry x="225" y="162" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="197" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-30" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="200" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-31" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="210" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-32" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="704.07" y="380" width="93.86" height="123.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SM_MCbTp_DuB2pGLK65r-34" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="709.93" y="294" width="60" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
